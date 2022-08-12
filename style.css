@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(44, 43, 42);
+}
+
+#all {
+  text-align: center;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#h1 {
+  font-size: 50px;
+  color: white;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 2px;
+}
+#text {
+  text-align: center;
+  width: 100%;
+}
+#btn{
+    margin-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 2px 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+    position: relative;
+}
+#cont{
+    text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
